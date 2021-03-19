@@ -1,0 +1,310 @@
+Armor Atributes
+
+  -Other
+  
+      -AttackUp 
+        Abillity - Attack Up
+        Levels - 1, 2, 3
+        
+      -SwimSpeed
+        Swim Speed Up
+        Levels 1, 2, 3
+        
+      -ClimbSpeed
+        Climb Speed Up
+        Levels 1, 2, 3
+
+      -Quietness
+        Stealth Up
+        Levels 1, 2, 3
+        
+      -SandMove
+        Sand Speed Up
+        Levels 1
+          
+      -SnowMove
+        Snow Speed Up
+        Levels 1
+    
+  -Resist
+  
+      -ResistCold
+        Cold Resistance
+        Levels - 1, 2
+        
+      -ResistBurn
+        Flame Guard 
+        Levels 1, 2
+        
+      -ResistHot
+        Heat Resistance 
+        Levels 1, 2 
+        
+      -ResistElectric
+        Electricity Resist Up
+        Levels 1, 2, 3
+        
+      -ResistAncient
+        Ancient Resist Up  
+        Levels 1, 2, 3
+        
+      -ResistLightning
+        Lightning Proof
+        Levels 1
+        
+      -ResistFreeze
+        Un-Freezable
+        Levels 1
+        
+  -Multi
+    
+      -ResistBurnAndResistAncient
+        Flame Guard - Ancient Resist Up
+        Levels 1, ?
+        
+      -ResistElectricAndResistAncient
+        Electricity Resist Up - Ancient Resist Up
+        Levels 1, ?
+        
+      -SwimSpeedAndResistAncient
+        Swim Speed Up - Ancient Resist Up
+        Levels 1, ? 
+            
+      -ResistHotAndWakeWind
+        Heat Resistance - unknown
+        Levels 1, ?
+        
+      -ResistColdAndResistAncient
+        Cold Resistance - Ancient Resist Up
+        Levels 1, ?
+        
+      -ClimbSpeedAndBeamPowerUp
+        Climb Speed Up - Master Sword Beam Up
+        Levels 1, ?
+        
+-Set Bonuses
+
+  -Main
+      -Korok
+        Master Sword Beam Up
+        Wild Set
+
+      -Zora
+        Swim Dash Stamina up
+        Zora Set
+
+      -GerudoCloth
+        Heat Resistance
+        Gurudo Vai Set
+
+      -Rito
+        Unfreezable
+        Snowquill Set
+
+      -Goron
+        Fireproof
+        Flamebreaker Set
+        
+      -Ancient
+        Ancient Proficiency
+        Ancient Set, Champion Helms
+        
+  -Side       
+
+      -HyliaArmor
+        None
+        Soliders Armor Set
+        
+      -Sheikah
+        Night Speed Up
+        Stealth Set
+
+      -Climb
+        Climb Stamina Up
+        Climbing Set
+              
+      -Rubber
+        Unshockable
+        Rubber Set
+ 
+      -Stalfos
+        Disguise; Bone Atk. Up	
+        Radiant Set
+        
+      -Gerudo
+        Shock Damage Resist 
+        Desert Voe Set
+         
+      -Power
+        Charge Attack Stamina Up
+        Barbarian Set
+         
+      -Black
+        Night Speed Up
+        Dark Set; Scare NPCs
+        
+      -Collaboration
+        Swim Dash Stamina Up
+        Salvagers Set
+        
+  -DLC      
+  
+      -PhantomGanon
+        Disguise; Bone Atk Up 
+        Phantom Ganon Set 
+        
+      -Phantom 
+        Scare NPCs 
+        Phantom Set 
+                
+      -Tingle
+        Night Speed Up; Scare NPCs
+        Tingle Set
+        
+      -RoyalGuard
+        Charge Attack Stamina Up
+        Royal Guards Set
+        
+  -No Ability
+     
+      -Hylia
+        None
+        Hylian Set
+        
+      -Naked
+        None
+        Wearing Nothing      
+  -Amiibo      
+  
+      -AmiiboFirstHero
+        Master Sword Beam Up
+        Hero Set
+        
+      -AmiiboOcarinaOfTime
+        Master Sword Beam Up
+        Oricana of Time Set
+        
+      -AmiiboMajorasMask
+        Charge Attack Stamina Up
+        Fierce Deity Set
+
+      -AmiiboSkywardSword
+        Master Sword Beam Up
+        Skyword Sword Set
+
+      -AmiiboTwilightPrincess
+        Master Sword Beam Up
+        Twilight Set
+
+      -AmiiboWindWaker
+        Master Sword Beam Up
+        Wind Waker Set
+
+  -Never Used       
+      -Dia
+        None
+        Diamond Circlet
+        [Never Used]
+        
+      -Sapphire
+        None
+        Saphire Circlet
+        [Never Used]
+        
+      -Ruby
+        None
+        Ruby Circlet 
+        [Never Used]
+        
+      -Topaz
+        None
+        Topaz Earing's
+        [Never Used]
+        
+      -Opal
+        None
+        Opal Earing's
+        [Never USed]
+
+      -Amber
+        None
+        Amber Earing's
+        [Never Used]
+        
+      -SheikMask
+        None
+        Shieks Mask
+        [Never Used]
+
+      -Majora
+        None
+        Majora's Mask
+        [Never Used]
+
+      -Ravio
+        None
+        ravio's Hood
+        [Never Used]
+
+      -Zant
+        None
+        Zant's Helm
+        [Never Used]
+      -Midna 
+        None 
+        Midna Helm
+        [Never Used]
+
+      -WindWaker
+        None
+        Lobster Shirt
+        [Never Used]
+        
+      -Hero
+        None
+        Champion's Tunic
+        [Never Used]
+
+      -Thunder
+        None
+        Thunder Helm
+        [Never Used]
+        
+      -Desert
+        None
+        Sand Boots
+        [Never Used]
+
+      -Snow
+        None
+        Snow Boots
+        [Never Used]
+      -Winter
+        None
+        Warm Doublet
+        [Never Used]
+        
+      -Old
+        None
+        Well Worn Set
+        [Never Used]
+
+      -Bokoblin
+        None
+        Bokablin Mask
+        [Never Used]
+        
+      -Lizalfos
+        None 
+        Lizalfos Mask
+        [Never Used]
+        
+      -Moriblin
+        None
+        Moblin Mask
+        [Never Used]
+        
+      -Lynel
+        None
+        Lynel Mask
+        [Never Used]

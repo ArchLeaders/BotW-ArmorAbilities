@@ -82,7 +82,7 @@ Armor Atributes
         Climb Speed Up - Master Sword Beam Up
         Levels 1, ?
         
--Set Bonuses
+-Sets
 
   -Main
       -Korok
